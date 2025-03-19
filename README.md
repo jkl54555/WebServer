@@ -1,22 +1,35 @@
 # WebServer
 
+---
+
+## 下載
+
+
+Http Server: [點擊下載](https://github.com/jkl54555/WebServer/releases/download/v1.0/WebServer-http.zip)  
+
+Https Server: [點擊下載](https://github.com/jkl54555/WebServer/releases/download/v1.0/WebServer-https.zip)
+
+---
+
 ## 選擇網卡
 
-![](/docs/image/01.png)  
+![](/docs/images/01.png)  
+
 此選擇只影響運行時的Log顯示相關內容
 
 ## QR碼
 
-![](/docs/image/02.png)  
+![](/docs/images/02.png)  
 
 ## 預設網站
 
-![](/docs/image/web.png)  
+![](/docs/images/web.png)  
 
 ## 設定檔
 
-![](/docs/image/env.png)  
-使用".env"進行設定
+![](/docs/images/env.png)  
+
+於".env"進行設定
 
 ### PORT
 
@@ -25,6 +38,7 @@
 若無設定使用網路協定預設  
 http使用80  
 https使用430  
+
 ### INTERFACE
 
 預設網路介面，  
