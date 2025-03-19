@@ -24,8 +24,8 @@ Https Server: [點擊下載](https://github.com/jkl54555/WebServer/releases/down
 ## 預設網站
 
 當 public/index.html 無法正常開啟，引導至預設網頁  
-
 ![](/docs/images/web.png)  
+這模板好久以前在codepen上找到的，忘存來源了，若知來源可以告知一下。  
 
 ## 設定檔
 
