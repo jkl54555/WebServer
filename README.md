@@ -13,7 +13,7 @@ Https Server: [點擊下載](https://github.com/jkl54555/WebServer/releases/down
 
 ## 選擇網卡
 
-此選擇只影響運行時的Log顯示相關內容
+此選擇只影響運行時的Log顯示相關內容  
 ![](/docs/images/01.png)  
 
 ## QR碼
